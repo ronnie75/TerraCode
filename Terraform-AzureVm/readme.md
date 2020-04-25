@@ -1,0 +1,1 @@
+Ceci est la documentation pour l'utilisatiion de cette configuration VM
